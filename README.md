@@ -1,4 +1,4 @@
-# 🤖 JFX MD-X
+# 🏴‍☠🏴‍☠🏴‍☠🏴‍☠🏴‍☠🏴‍☠🏴‍☠🏴‍☠ JFX MD-X 🏴‍☠🏴‍☠🏴‍☠🏴‍☠🏴‍☠🏴‍☠🏴‍☠🏴‍☠
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
@@ -10,13 +10,13 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://whatsapp.com/channel/0029VbAxkJl0lwgqAOojKI3R"> 
-    <img src="https://github.com/Jeffreyfx1/JFX-MD-X/blob/main/assets/bot_image.jpg" alt="JFX MD-X" height="300"> 
+    <img src="https://github.com/Jeffreyfx1/jfx-md-x-bot/blob/main/assets/bot_image.jpg" alt="JFX MD-X" height="300"> 
   </a> 
 </div>
 
 ---
 
-## 🚀 Steps to Deploy
+  ## 🚀 Steps to Deploy
 
 ### Step 1: Fork the Repository
 
